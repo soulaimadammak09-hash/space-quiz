@@ -1,6 +1,6 @@
 # Orbit: Space Exploration Quiz
 
-Orbit is a standalone, 10-question space exploration quiz. It includes shuffled questions, animated answer feedback, a score and progress indicator, a review of missed answers, and a personal-best score saved in your browser.
+Orbit is a standalone, 10-question space exploration quiz. Choose an answer for each question, follow your score and progress, and see an emoji reaction with your final results. Correct and incorrect answers receive animated feedback, and the page supports light and dark system themes.
 
 ## Run locally
 
